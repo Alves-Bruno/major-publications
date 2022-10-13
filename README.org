@@ -1,24 +1,23 @@
 * Major Publications 
 
-[[http://dx.doi.org/10.1007/978-3-030-49432-2_10][MPI to Go: Container Clusters for MPI Applications]]. Steffenel, Luiz Angelo; Charão, Andrea S. ; *Alves, Bruno*; de Araujo, Lucas R.; da Silva, Lucas F. Communications in Computer and Information Science. Springer International Publishing, 2020. 
+- [[http://dx.doi.org/10.1007/978-3-030-49432-2_10][MPI to Go: Container Clusters for MPI Applications]]. Steffenel, Luiz Angelo; Charão, Andrea S. ; *Alves, Bruno*; de Araujo, Lucas R.; da Silva, Lucas F. Communications in Computer and Information Science. Springer International Publishing, 2020. 
 
-[[http://dx.doi.org/10.1007/978-3-030-58814-4_61][Towards Integration of Containers into Scientific Workflows: A Preliminary Experience with Cached Dependencies]]. *da Silva Alves, Bruno*; Charão, Andrea Schwertner. Lecture Notes in Computer Science. 1ed.: Springer International Publishing, 2020.
+- [[http://dx.doi.org/10.1007/978-3-030-58814-4_61][Towards Integration of Containers into Scientific Workflows: A Preliminary Experience with Cached Dependencies]]. *da Silva Alves, Bruno*; Charão, Andrea Schwertner. Lecture Notes in Computer Science. 1ed.: Springer International Publishing, 2020.
 
-[[http://dx.doi.org/10.5220/0007799705610568][A Containerized Tool to Deploy Scientific Applications over SoC-based Systems: The Case of Meteorological Forecasting with WRF]]. STEFFENEL, LUIZ; *ALVES, BRUNO*; CHARÃO, ANDREA. In: 9th International Conference on Cloud Computing and Services Science, 2019, Heraklion. 
+- [[http://dx.doi.org/10.5220/0007799705610568][A Containerized Tool to Deploy Scientific Applications over SoC-based Systems: The Case of Meteorological Forecasting with WRF]]. STEFFENEL, LUIZ; *ALVES, BRUNO*; CHARÃO, ANDREA. In: 9th International Conference on Cloud Computing and Services Science, 2019, Heraklion. 
 
+- *Randomização de Endereço MAC como Técnica para Prover Privacidade a Usuários de Redes WiFi*. ALVES, B. S.; DUARTE, Y. S. ; SILVA, B. M. .In: II Workshop Regional de Segurança da Informação e de Sistemas Computacionais, 2017, Santa Maria. Anais da II Workshop Regional de Segurança da Informação e de Sistemas Computacionais, 2017.
 
-ALVES, B. S.; DUARTE, Y. S. ; SILVA, B. M. . *Randomização de Endereço MAC como Técnica para Prover Privacidade a Usuários de Redes WiFi*. In: II Workshop Regional de Segurança da Informação e de Sistemas Computacionais, 2017, Santa Maria. Anais da II Workshop Regional de Segurança da Informação e de Sistemas Computacionais, 2017.
+- *UM DISPOSITIVO AUTOCONTIDO PARA PROVER SEGURANÇA DE COMUNICAÇÃO NO AMBIENTE DE REDES ELÉTRICAS INTELIGENTES*. DUARTE, Y. S. ; RIZZETTI, T. A. ; RIO, L. S. ; ALVES, B. S. ; MILBRADT, R. G. ; CANHA, L. N. .In: 10th Seminar on Power Eletronics and Control (SEPOC), 2017, Santa Maria, RS. 10th Seminar on Power Eletronics and Control (SEPOC), 2017, 2017.
 
-DUARTE, Y. S. ; RIZZETTI, T. A. ; RIO, L. S. ; ALVES, B. S. ; MILBRADT, R. G. ; CANHA, L. N. . *UM DISPOSITIVO AUTOCONTIDO PARA PROVER SEGURANÇA DE COMUNICAÇÃO NO AMBIENTE DE REDES ELÉTRICAS INTELIGENTES*. In: 10th Seminar on Power Eletronics and Control (SEPOC), 2017, Santa Maria, RS. 10th Seminar on Power Eletronics and Control (SEPOC), 2017, 2017.
+- *Arquitetura de comunicacão segura para Smart Grids*. DUARTE, Y. S. ; Alexandre Rodrigues ; da Silva Alves, Bruno ; RIZZETTI, T. A. ; CANHA, L. N. .In: 15ª Escola Regional de Redes de Computadores, 2017, Santa Maria, RS. 15ª Escola Regional de Redes de Computadores, 2017.
 
-DUARTE, Y. S. ; Alexandre Rodrigues ; da Silva Alves, Bruno ; RIZZETTI, T. A. ; CANHA, L. N. . *Arquitetura de comunicacão segura para Smart Grids*. In: 15ª Escola Regional de Redes de Computadores, 2017, Santa Maria, RS. 15ª Escola Regional de Redes de Computadores, 2017.
+- *Uma arquitetura para Sensoriamento e Tratamento de Eventos voltada à Área de Segurança para Controle e Rastreio de Usuários em Ambientes Físicos*. PEDROZO, W. ; RODRIGUES, A. S. ; ALVES, B. S. ; ROSA, C. L. ; RIZZETTI, T. A. .In: 15ª Escola Regional de Redes de Computadores, 2017, Santa Maria, RS. 15ª Escola Regional de Redes de Computadores, 2017.
 
-PEDROZO, W. ; RODRIGUES, A. S. ; ALVES, B. S. ; ROSA, C. L. ; RIZZETTI, T. A. . *Uma arquitetura para Sensoriamento e Tratamento de Eventos voltada à Área de Segurança para Controle e Rastreio de Usuários em Ambientes Físicos*. In: 15ª Escola Regional de Redes de Computadores, 2017, Santa Maria, RS. 15ª Escola Regional de Redes de Computadores, 2017.
-
-ALVES, BRUNO; CHARAO, A. S. . *Investigando o Impacto de Containers no Desempenho de um Workflow Científico*. In: 21o Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD 2020), 2020, Santo André, SP. 21o Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD 2020), 2020.
+- *Investigando o Impacto de Containers no Desempenho de um Workflow Científico*. ALVES, BRUNO; CHARAO, A. S. .In: 21o Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD 2020), 2020, Santo André, SP. 21o Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD 2020), 2020.
  
-ALVES, B. S.; CHARAO, A. S. ; LIMA, J. V. F. . *Uma Experiência de Execução de Aplicação MPI em Contêineres com Docker Swarm*. In: XIX Escola Regional de Alto Desempenho da Região Sul, 2019, Trẽs de Maio, RS. Anais da XIX Escola Regional de Alto Desempenho da Região Sul (ERAD/RS), 2019.
+- *Uma Experiência de Execução de Aplicação MPI em Contêineres com Docker Swarm*. ALVES, B. S.; CHARAO, A. S. ; LIMA, J. V. F. .In: XIX Escola Regional de Alto Desempenho da Região Sul, 2019, Trẽs de Maio, RS. Anais da XIX Escola Regional de Alto Desempenho da Região Sul (ERAD/RS), 2019.
 
-PEDROZO, W. ; RODRIGUES, A. S. ; da Silva Alves, Bruno ; RIO, L. S. ; ROSA, C. L. ; RIZZETTI, T. A. . *Uma arquitetura para Sensoriamento e Tratamento de Eventos voltada à Área de Segurança para Controle e Rastreio de Usuários em Ambientes Físicos*. REVISTA ELETRÔNICA ARGENTINA-BRASIL DE TECNOLOGIAS DA INFORMAÇÃO E DA COMUNICAÇÃO, v. 2, p. 1, 2018.
+- *Uma arquitetura para Sensoriamento e Tratamento de Eventos voltada à Área de Segurança para Controle e Rastreio de Usuários em Ambientes Físicos*. PEDROZO, W. ; RODRIGUES, A. S. ; da Silva Alves, Bruno ; RIO, L. S. ; ROSA, C. L. ; RIZZETTI, T. A. .REVISTA ELETRÔNICA ARGENTINA-BRASIL DE TECNOLOGIAS DA INFORMAÇÃO E DA COMUNICAÇÃO, v. 2, p. 1, 2018.
 
-RODRIGUES, A. S. ; DUARTE, Y. S. ; ALVES, B. S. ; RIZZETTI, T. A. . *Implementação de uma rede mesh segura utilizando o protocolo OLSR aplicada a Smart Grids*. REVISTA BRASILEIRA DE INICIAÇÃO CIENTÍFICA, v. 3, p. 170-189, 2016. 
+- *Implementação de uma rede mesh segura utilizando o protocolo OLSR aplicada a Smart Grids*. RODRIGUES, A. S. ; DUARTE, Y. S. ; ALVES, B. S. ; RIZZETTI, T. A. . REVISTA BRASILEIRA DE INICIAÇÃO CIENTÍFICA, v. 3, p. 170-189, 2016. 
